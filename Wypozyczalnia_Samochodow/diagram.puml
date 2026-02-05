@@ -1,0 +1,29 @@
+@startuml
+
+abstract class Vehicle {
+  Id
+  Brand
+  Model
+  PricePerDay
+}
+
+class Car
+class Sedan
+class SUV
+class Van
+class Customer
+class Reservation
+class RentalService
+
+Vehicle <|-- Car
+Car <|-- Sedan
+Car <|-- SUV
+Car <|-- Van
+
+Reservation --> Vehicle
+Reservation --> Customer
+RentalService --> Vehicle
+RentalService --> Customer
+RentalService --> Reservation
+
+@enduml

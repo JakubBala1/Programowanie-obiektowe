@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Wypozyczalnia_Samochodow": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

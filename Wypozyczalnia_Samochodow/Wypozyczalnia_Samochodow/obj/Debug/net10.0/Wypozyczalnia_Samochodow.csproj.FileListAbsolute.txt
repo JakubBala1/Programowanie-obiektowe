@@ -1,0 +1,14 @@
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\bin\Debug\net10.0\Wypozyczalnia_Samochodow.exe
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\bin\Debug\net10.0\Wypozyczalnia_Samochodow.deps.json
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\bin\Debug\net10.0\Wypozyczalnia_Samochodow.runtimeconfig.json
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\bin\Debug\net10.0\Wypozyczalnia_Samochodow.dll
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\bin\Debug\net10.0\Wypozyczalnia_Samochodow.pdb
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\Wypozyczalnia_Samochodow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\Wypozyczalnia_Samochodow.AssemblyInfoInputs.cache
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\Wypozyczalnia_Samochodow.AssemblyInfo.cs
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\Wypozyczalnia_Samochodow.csproj.CoreCompileInputs.cache
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\Wypozyczalnia_Samochodow.dll
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\refint\Wypozyczalnia_Samochodow.dll
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\Wypozyczalnia_Samochodow.pdb
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\Wypozyczalnia_Samochodow.genruntimeconfig.cache
+C:\Users\kubab\Desktop\Wypozyczalnia_Samochodow\Wypozyczalnia_Samochodow\obj\Debug\net10.0\ref\Wypozyczalnia_Samochodow.dll
